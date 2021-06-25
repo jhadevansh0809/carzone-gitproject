@@ -28,7 +28,6 @@
     color: #f0151f;
 }
 
-
 .vehicles-box .detail h5{
     color: #f0151f;
 }
@@ -315,10 +314,6 @@ input[type=checkbox]:checked + label:before {
 
 .main-title h1 span{
     color:#f0151f;
-}
-
-.banner-detail-box .red-box {
-    background:#f0151f url(../../img/slider-detail.png) center center;
 }
 
 .banner-detail-box .white-box .slide-price {

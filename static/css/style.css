@@ -918,12 +918,7 @@ input[type=checkbox]:checked + label:before {
     width: 0;
 }
 
-.banner-bg {
-    background: url("../img/banner/banner-1.jpg");
-}
-
 .item-bg {
-    /*background: url("../img/banner-1.jpg");*/
     height: 100vh;
     /*animation: bgburnsEast 25s linear infinite alternate;
     -webkit-animation: bgburnsEast 25s linear infinite alternate;*/
@@ -4656,17 +4651,6 @@ footer {
     box-shadow: 0 0 35px rgba(0, 0, 0, 0.1);
 }
 
-/** Listings parallax start **/
-.listings-parallax {
-    background: url(../img/listings-parallax.jpg);
-    z-index: 0;
-    background-position: center center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    color: #efefef;
-    padding-top: 80px;
-}
-
 .listings-parallax .text {
     display: inline-block;
 }
@@ -5471,22 +5455,6 @@ footer {
     justify-content: center;
     align-items: center;
     padding: 10px 0;
-}
-
-.contact-section .bg-img {
-    background: rgba(0, 0, 0, 0.04) url(../img/bg-img-2.jpg) top left repeat;
-    background-size: cover;
-    top: 0;
-    bottom: 0;
-    border-radius:0 20px 20px 0;
-    opacity: 1;
-    width: 100%;
-    z-index: 999;
-    min-height: 496px;
-    position: relative;
-    display: flex;
-    justify-content: center;
-    align-items: center;
 }
 
 .contact-section {

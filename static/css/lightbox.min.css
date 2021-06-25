@@ -433,33 +433,8 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
     overflow: auto
 }
 
-.lg-outer .lg-has-vimeo .lg-video-play {
-    background: url(../img/vimeo-play.png) no-repeat
-}
-
-.lg-outer .lg-has-vimeo:hover .lg-video-play {
-    background: url(../img/vimeo-play.png) 0 -58px no-repeat
-}
-
-.lg-outer .lg-has-html5 .lg-video-play {
-    background: url(../img/video-play.png) no-repeat;
-    height: 64px;
-    margin-left: -32px;
-    margin-top: -32px;
-    width: 64px;
-    opacity: .8
-}
-
 .lg-outer .lg-has-html5:hover .lg-video-play {
     opacity: 1
-}
-
-.lg-outer .lg-has-youtube .lg-video-play {
-    background: url(../img/youtube-play.png) no-repeat
-}
-
-.lg-outer .lg-has-youtube:hover .lg-video-play {
-    background: url(../img/youtube-play.png) 0 -60px no-repeat
 }
 
 .lg-outer .lg-video-object {
@@ -907,11 +882,6 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
     left: 0;
     top: 0;
     white-space: nowrap
-}
-
-.lg-outer .lg-item {
-    background: url(../img/loading.gif) center center no-repeat;
-    display: none !important
 }
 
 .lg-outer.lg-css .lg-current, .lg-outer.lg-css3 .lg-current, .lg-outer.lg-css3 .lg-next-slide, .lg-outer.lg-css3 .lg-prev-slide {
