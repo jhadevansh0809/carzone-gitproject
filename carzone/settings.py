@@ -24,7 +24,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = '=vp4x5$2kf1*g^hd%-kw(%9__@2i0#l)1seh8n*6+h&ynvc7a+'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['fierce-reaches-88390.herokuapp.com','carzonecarservices.co']
 
