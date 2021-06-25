@@ -26,7 +26,7 @@ SECRET_KEY = '=vp4x5$2kf1*g^hd%-kw(%9__@2i0#l)1seh8n*6+h&ynvc7a+'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['fierce-reaches-88390.herokuapp.com','carzonecarservices.co']
+ALLOWED_HOSTS = ['fierce-reaches-88390.herokuapp.com']
 
 LOGIN_REDIRECT_URL='dashboard'
 
